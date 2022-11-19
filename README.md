@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Hi 👋 My name is Pulkit Batra</h1>
+Hi 👋 My name is Pulkit Batra
 =============================
 
 Web Developer and Designer
