@@ -1,15 +1,15 @@
 Hi 👋 My name is Pulkit Batra
 =============================
 
-Web Developer and Designer
+Software and Data Engineer
 --------------------------
 
-i'm a Software Developer, Photographer and Technical Blogger from New Delhi, India.
+i'm a Software Developer, Data Engineer, Photographer and caffiene Addict from New Delhi, India.
 
-*   🖥️  See my portfolio at [Portfolio](http://pulkitbxtra.github.io/Portfolio/)
-*   🚀  I'm currently working on [Yummy.io](http://github.com/PulkitBxtra/Yummy.io)
-*   🧠  I'm learning NodeJS and Express
-*   🤝  I'm open to collaborating on Full Stack Web Development
+*   🖥️  See my portfolio at [Portfolio](https://www.pulkitbatra.co/)
+*   🚀  I'm currently working on [Realply.com](https://www.realply.com/)
+*   🧠  I'm learning Svelte
+*   🤝  I'm open to collaborating on Full Stack Web Development and Data Pipelines
 *   ⚡  I'm Batman but don't tell anyone
    
    ### Skills 
