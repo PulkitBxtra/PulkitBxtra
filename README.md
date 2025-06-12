@@ -1,7 +1,7 @@
 Hi 👋 My name is Pulkit Batra
 =============================
 
-Software and Data Engineer
+Software Engineer, Data Engineer, Product Manager and Everything in Between
 --------------------------
 
 i'm a Software Developer, Data Engineer, Photographer and caffiene Addict from New Delhi, India.
