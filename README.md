@@ -4,7 +4,7 @@ Hi 👋 My name is Pulkit Batra
 Software Engineer, Data Engineer, Product Manager and Everything in Between
 --------------------------
 
-i'm a Software Developer, Data Engineer, Photographer and caffiene Addict from New Delhi, India.
+i'm a Software Developer, Data Scientist, Photographer and caffiene Addict from New Delhi, India.
 
 *   🖥️  See my portfolio at [Portfolio](https://www.pulkitbatra.co/)
 *   🚀  I'm currently working on [Realply.com](https://www.realply.com/)
